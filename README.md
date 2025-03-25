@@ -1,0 +1,1 @@
+CTF{G1G1_Fl4Zh0k}
